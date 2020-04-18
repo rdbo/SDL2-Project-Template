@@ -1,0 +1,4 @@
+version.lib
+imm32.lib
+winmm.lib
+Setupapi.lib
