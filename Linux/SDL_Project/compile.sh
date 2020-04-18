@@ -1,0 +1,1 @@
+g++ main.cpp sdl_program.cpp -o sdl_program -lSDL2
